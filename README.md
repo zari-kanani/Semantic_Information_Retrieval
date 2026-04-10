@@ -1,10 +1,10 @@
-# 🔍 Semantic Information Retrieval
+# Semantic Information Retrieval
 
 A Jupyter notebook project demonstrating how **medical domain knowledge** can be leveraged to significantly improve Information Retrieval (IR) systems. Built on the **TREC-COVID** and **PubMed** datasets using **PyTerrier**.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Standard keyword-based search engines match documents by term frequency alone — they have no understanding of medical concepts. This project bridges that gap by integrating **MeSH (Medical Subject Headings)** into the retrieval pipeline.
 
@@ -20,7 +20,7 @@ The notebook implements and compares four semantic enhancement strategies on top
 | **Learning to Rank (LTR)** | Trains a supervised model to optimally combine retrieval features |
 
 
-## 📈 Key Findings
+## Key Findings
 
 - MeSH-based query expansion improves retrieval by grounding expansion in controlled medical vocabulary rather than raw term co-occurrence
 - Document expansion allows standard queries to match medical concepts without any query-time modification
