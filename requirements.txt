@@ -1,0 +1,18 @@
+# Core data handling
+pandas
+numpy
+
+# HTML/XML parsing
+beautifulsoup4
+lxml
+
+# Information Retrieval
+python-terrier
+
+# Machine Learning (LTR)
+scikit-learn
+
+# Jupyter environment
+jupyter
+notebook
+ipywidgets
