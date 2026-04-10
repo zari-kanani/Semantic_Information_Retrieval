@@ -12,7 +12,4 @@ python-terrier
 # Machine Learning (LTR)
 scikit-learn
 
-# Jupyter environment
-jupyter
-notebook
-ipywidgets
+
