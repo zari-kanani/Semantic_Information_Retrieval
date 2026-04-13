@@ -1,6 +1,6 @@
 # Semantic Information Retrieval
 
-A Jupyter notebook project demonstrating how **medical domain knowledge** can be leveraged to significantly improve Information Retrieval (IR) systems. Built on the **TREC-COVID** and **PubMed** datasets using **PyTerrier**.
+A Jupyter notebook project demonstrating how medical domain knowledge can be leveraged to significantly improve Information Retrieval (IR) systems. Built on the COVID dataset using PyTerrier, with MeSH terms fetched from the PubMed API to enrich the documents.
 
 ---
 
