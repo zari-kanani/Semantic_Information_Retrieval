@@ -4,7 +4,6 @@ numpy
 
 # HTML/XML parsing
 beautifulsoup4
-lxml
 
 # Information Retrieval
 python-terrier
